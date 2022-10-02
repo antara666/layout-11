@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: rgb(41, 44, 48);
+    color: antiquewhite;
+    text-align: center;
+    height: 100px;
+}
+.content{
+    overflow: hidden;
+}
+.left_content{
+    background-color: rgb(61, 65, 70);
+    color: antiquewhite;
+    text-align: center;
+    height: 500px;
+    width: 20%;
+    float: left;
+}
+.center_content{
+    background-color: rgb(41, 44, 48);
+    height: 500px;
+    width: 50%;
+    float: left;
+}
+.right_content{
+    background-color: rgb(61, 65, 70);
+    color: antiquewhite;
+    text-align: center;
+    height: 500px;
+    width: 30%;
+    float: left;
+}
+.top{
+    background-color: rgb(250, 9, 9);
+    height: 15%;
+    overflow: hidden;
+}
+.middle{
+    background-color: rgb(156, 156, 156);
+    color: antiquewhite;
+    text-align: center;
+    height: 60%;
+}
+.bottom{
+    background-color: rgb(121, 121, 121);
+    color: antiquewhite;
+    text-align: center;
+    height: 25%;
+}
+.top_left{
+    background-color: rgb(77, 80, 83);
+    color: antiquewhite;
+    text-align: center;
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.top_right{
+    background-color: rgb(95, 99, 103);
+    color: antiquewhite;
+    text-align: center;
+    width: 50%;
+    height: 100%;
+    float: right;
+}
+.feature{
+    overflow: hidden;
+}
+.feature_one{
+    background-color: rgb(77, 80, 83);
+    color: antiquewhite;
+    text-align: center;
+    width: 33.3%;
+    height: 60px;
+    float: left;
+}
+.feature_two{
+    background-color: rgb(106, 106, 106);
+    color: antiquewhite;
+    text-align: center;
+    width: 33.3%;
+    height: 60px;
+    float: left;
+}
+.feature_three{
+    background-color: rgb(77, 80, 83);
+    color: antiquewhite;
+    text-align: center;
+    width: 33.3%;
+    height: 60px;
+    float: left;
+}
+footer{
+    background-color: rgb(41, 44, 48);
+    color: antiquewhite;
+    text-align: center;
+    height: 100px;
+}
